@@ -1,13 +1,11 @@
 +++
-title = "Understanding Database Transaction Isolation Issues and Gap Locking"
+title = "Database Reading Transaction Isolation Issues and Gap Locking"
 date = "2024-12-30"
-description = "An in-depth exploration of database concurrency control, covering dirty reads, read skew, phantom reads, and the trade-offs of gap locking. The conversation examines how different isolation levels (READ COMMITTED, REPEATABLE READ, SERIALIZABLE) address these issues, with practical examples demonstrating the challenges and solutions in maintaining data consistency while balancing performance and concurrency."
+description = "Some popular problems may occur in a database when doing reading queries."
 
 [taxonomies]
 tags = ["database", "transaction", "isolation", "concurrency", "locking"]
 +++
-
-An in-depth exploration of database concurrency control, covering dirty reads, read skew, phantom reads, and the trade-offs of gap locking. The conversation examines how different isolation levels (READ COMMITTED, REPEATABLE READ, SERIALIZABLE) address these issues, with practical examples demonstrating the challenges and solutions in maintaining data consistency while balancing performance and concurrency.
 
 ## What problem can happen when the write operation in a database on some rows does not block read operations on the same rows?
 
