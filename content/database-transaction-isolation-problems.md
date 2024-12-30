@@ -1,6 +1,6 @@
 +++
 title = "Understanding Database Transaction Isolation Issues and Gap Locking"
-date = "2024-12-27"
+date = "2024-12-30"
 description = "An in-depth exploration of database concurrency control, covering dirty reads, read skew, phantom reads, and the trade-offs of gap locking. The conversation examines how different isolation levels (READ COMMITTED, REPEATABLE READ, SERIALIZABLE) address these issues, with practical examples demonstrating the challenges and solutions in maintaining data consistency while balancing performance and concurrency."
 
 [taxonomies]
