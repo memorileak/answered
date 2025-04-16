@@ -4,7 +4,7 @@ date = "2025-04-16"
 description = "An in-depth exploration of computer network security principles, cryptographic techniques, secure protocols, and operational measures to protect networks from threats and attacks."
 
 [taxonomies]
-tags = ["networking", "security"]
+tags = ["networking", "security", "cryptography", "protocols", "firewalls", "encryption", "authentication", "integrity", "VPNs", "wireless"]
 +++
 
 ## Computer Network Security: Principles and Protocols
