@@ -4,7 +4,7 @@ date = "2025-04-17"
 description = "A comprehensive exploration of wireless and mobile networking fundamentals covering WiFi, cellular networks (4G/5G), Bluetooth, wireless link characteristics, mobility management protocols, handover mechanisms, and performance implications for higher-layer protocols."
 
 [taxonomies]
-tags = ["networking", "wireless", "mobility", "cellular", "wifi", "bluetooth", "handover", "roaming", "802.11", "5G", "4G", "interference", "fading", "tunneling", "TCP"]
+tags = ["networking", "wireless", "mobility", "cellular", "wifi", "bluetooth", "802.11", "5G", "4G", "tunneling"]
 +++
 
 ## Wireless and Mobile Networks: Challenges and Solutions
