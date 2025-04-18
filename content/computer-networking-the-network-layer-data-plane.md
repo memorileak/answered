@@ -1,6 +1,6 @@
 +++
 title = "Computer Networking: The Network Layer: Data Plane"
-date = "2025-04-17"
+date = "2025-04-15"
 description = "A comprehensive exploration of network layer data plane functioning, including router architecture, IPv4/IPv6 addressing, packet forwarding mechanisms, queuing strategies, NAT, and software-defined networking innovations."
 
 [taxonomies]

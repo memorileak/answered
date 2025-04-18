@@ -1,6 +1,6 @@
 +++
 title = "Computer Networking: The Link Layer and LANs"
-date = "2025-04-15"
+date = "2025-04-13"
 description = "An in-depth exploration of network link layer fundamentals including switching, MAC addressing, error detection, LANs, VLANs, and data center architectures with practical protocol interactions."
 
 [taxonomies]

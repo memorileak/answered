@@ -1,6 +1,6 @@
 +++
 title = "Computer Networking: The Application Layer"
-date = "2025-04-18"
+date = "2025-04-17"
 description = "A comprehensive exploration of network application principles including client-server architecture, socket programming, HTTP, DNS, email protocols, P2P file sharing, video streaming technologies, and content delivery networks."
 
 [taxonomies]

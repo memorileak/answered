@@ -1,6 +1,6 @@
 +++
 title = "Computer Networking: The Transport Layer"
-date = "2025-04-17"
+date = "2025-04-16"
 description = "A comprehensive analysis of transport layer protocols exploring TCP and UDP operations, congestion control mechanisms, reliable data transfer principles, multiplexing techniques, and protocol evolution in modern networks."
 
 [taxonomies]

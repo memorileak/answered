@@ -1,6 +1,6 @@
 +++
 title = "Computer Networking: The Network Layer: Control Plane"
-date = "2025-04-17"
+date = "2025-04-14"
 description = "A detailed exploration of network control plane fundamentals including routing algorithms, OSPF, BGP, SDN architecture, ICMP operation, and network management protocols that coordinate modern internet infrastructure."
 
 [taxonomies]

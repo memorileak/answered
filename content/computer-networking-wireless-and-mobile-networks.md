@@ -1,6 +1,6 @@
 +++
 title = "Computer Networking: Wireless And Mobile Networks"
-date = "2025-04-17"
+date = "2025-04-12"
 description = "A comprehensive exploration of wireless and mobile networking fundamentals covering WiFi, cellular networks (4G/5G), Bluetooth, wireless link characteristics, mobility management protocols, handover mechanisms, and performance implications for higher-layer protocols."
 
 [taxonomies]
